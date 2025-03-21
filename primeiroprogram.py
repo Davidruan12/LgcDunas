@@ -12,3 +12,6 @@ while multiplo <= 9:
     multiplo = multiplo +1
     resultado = multiplo*valorUser
     print(f"{valorUser} X {multiplo} = {resultado}")'''
+
+
+print('teste')
