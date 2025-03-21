@@ -1,7 +1,10 @@
 # Criação e declaração de variaveis e estrutura de emtrada e saída de dados e laços de repetição
+
+# Declaração de Variaveis
 nome = "David Ruan"
 numeroMatricula = 202404116051
 print(f"O teu nome é {nome} e a tua matricula é {numeroMatricula} ")
+
 
 
 '''multiplo = 0
@@ -14,4 +17,3 @@ while multiplo <= 9:
     print(f"{valorUser} X {multiplo} = {resultado}")'''
 
 
-print('teste')
